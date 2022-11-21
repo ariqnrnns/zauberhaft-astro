@@ -7,9 +7,9 @@
 [![zauberhaft.ravenbright.design](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://zauberhaft.ravenbright.design)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ariqnrnns/zauberhaft-astro/main/src/zauberhaft-astro-banner.jpg" alt="Zauberhaft Banner">
+<img src="https://raw.githubusercontent.com/ariqnrnns/zauberhaft-astro/main/src/Zauberhaft-banner.jpg" alt="Zauberhaft Banner">
 
-<img src="https://raw.githubusercontent.com/ariqnrnns/zauberhaft-astro/main/src/zauberhaft-astro-stats.jpg" alt="Zauberhaft Stats">
+<img src="https://raw.githubusercontent.com/ariqnrnns/zauberhaft-astro/main/src/Zauberhaft-stats.jpg" alt="Zauberhaft Stats">
 </p>
 
 ## Free, customizable, modern & Lightning fast Astro agency website template
